@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rion B. Correia | Alexander Gates</title>
-    <link>https://ajgates42@github.io/author/rion-b.-correia/</link>
-      <atom:link href="https://ajgates42@github.io/author/rion-b.-correia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ajgates42.github.io/author/rion-b.-correia/</link>
+      <atom:link href="https://ajgates42.github.io/author/rion-b.-correia/index.xml" rel="self" type="application/rss+xml" />
     <description>Rion B. Correia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ajgates42@github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Rion B. Correia</title>
-      <link>https://ajgates42@github.io/author/rion-b.-correia/</link>
+      <link>https://ajgates42.github.io/author/rion-b.-correia/</link>
     </image>
     
     <item>
       <title>CANA: A python package for quantifying control and canalization in Boolean Networks</title>
-      <link>https://ajgates42@github.io/publication/cana/</link>
+      <link>https://ajgates42.github.io/publication/cana/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42@github.io/publication/cana/</guid>
+      <guid>https://ajgates42.github.io/publication/cana/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
