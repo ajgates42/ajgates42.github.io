@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Alexander Gates</title>
-    <link>https://alexandergates.net/project/</link>
-      <atom:link href="https://alexandergates.net/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ajgates42.github.io/project/</link>
+      <atom:link href="https://ajgates42.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alexandergates.net/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://alexandergates.net/project/</link>
+      <link>https://ajgates42.github.io/project/</link>
     </image>
     
     <item>
       <title>pySciSci</title>
-      <link>https://alexandergates.net/project/pyscisci/</link>
+      <link>https://ajgates42.github.io/project/pyscisci/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/project/pyscisci/</guid>
+      <guid>https://ajgates42.github.io/project/pyscisci/</guid>
       <description>&lt;p&gt;The science of science (SciSci) encompasses interdisciplinary research programs that study the processes underlying science. The field has benefited greatly from access to massive digital databases containing the products of scientific discourse&amp;mdash;including publications, journals, patents, books, conference proceedings, and grants. The subsequent proliferation of mathematical models and computational techniques for quantifying the dynamics of innovation and success in science has made it difficult to disentangle universal scientific processes from those dependent on specific databases, data-processing decisions, field practices, etc.. Here we present &lt;em&gt;pySciSci&lt;/em&gt;, a freely available and easily adaptable Python package for the analysis of large-scale bibliometric data.  The &lt;em&gt;pySciSci&lt;/em&gt; package standardizes access to many of the most common datasets in SciSci and provides efficient implementations of common and advanced analytical techniques.&lt;/p&gt;
 &lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
 
@@ -44,7 +44,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
 
   
 
@@ -53,7 +53,7 @@
     
 
   
-  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -156,7 +156,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/nature150/&#34; &gt;Nature&amp;#39;s Reach: narrow work has broad impact&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/nature150/&#34; &gt;Nature&amp;#39;s Reach: narrow work has broad impact&lt;/a&gt;
 
   
 
@@ -165,7 +165,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Qing Ke&lt;/span&gt;, &lt;span &gt;Onur Varol&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Qing Ke&lt;/span&gt;, &lt;span &gt;Onur Varol&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -236,9 +236,9 @@
     
     <item>
       <title>Systemic Inequality in Science &amp; Art</title>
-      <link>https://alexandergates.net/project/systemicinequality/</link>
+      <link>https://ajgates42.github.io/project/systemicinequality/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/project/systemicinequality/</guid>
+      <guid>https://ajgates42.github.io/project/systemicinequality/</guid>
       <description>&lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
 
 
@@ -265,7 +265,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
 
   
 
@@ -274,7 +274,7 @@
     
 
   
-  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -377,7 +377,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/artgender/&#34; &gt;Quantifying systemic gender inequality in art&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/artgender/&#34; &gt;Quantifying systemic gender inequality in art&lt;/a&gt;
 
   
 
@@ -386,7 +386,7 @@
     
 
   
-  &lt;span &gt;Xindi Wang&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;Xindi Wang&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -442,9 +442,9 @@
     
     <item>
       <title>CluSim</title>
-      <link>https://alexandergates.net/project/clusim/</link>
+      <link>https://ajgates42.github.io/project/clusim/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/project/clusim/</guid>
+      <guid>https://ajgates42.github.io/project/clusim/</guid>
       <description>&lt;p&gt;Clustering reveals the coarse-grained structure of data. However, to understand, evaluate, and leverage data clusterings, we need to quantitatively compare them. Clustering comparison forms the backbone of many tasks, including method evaluations, consensus clustering, and tracking the temporal evolution of clusters.&lt;/p&gt;
 &lt;p&gt;Take, for example, the evaluation of a clustering or community detection method.  To determine if the method is recovering a known feature of the data, it is necessary to compare the method’s result to a planted reference (a.k.a. ground truth) clustering, assuming that the more similar the method’s solution is to the reference clustering, the better the method.&lt;/p&gt;
 &lt;p&gt;Despite the importance of clustering comparison, no consensus has been reached for a standardized assessment; many, many clustering similarity methods exist, and each similarity measure rewards and penalizes different criteria, sometimes producing contradictory conclusions.  The situtation is even worse for generalized definitions of clusterings that include overlaps or hierarchy.&lt;/p&gt;
@@ -475,7 +475,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
 
   
 
@@ -484,7 +484,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -529,7 +529,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -577,7 +577,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
 
   
 
@@ -586,7 +586,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -631,7 +631,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -683,7 +683,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
 
   
 
@@ -692,7 +692,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -737,7 +737,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -769,9 +769,9 @@
     
     <item>
       <title>Clustering Analysis</title>
-      <link>https://alexandergates.net/project/clustering/</link>
+      <link>https://ajgates42.github.io/project/clustering/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/project/clustering/</guid>
+      <guid>https://ajgates42.github.io/project/clustering/</guid>
       <description>&lt;p&gt;Clustering reveals the coarse-grained structure of data. However, to understand, evaluate, and leverage data clusterings, we need to quantitatively compare them. Clustering comparison forms the backbone of many tasks, including method evaluations, consensus clustering, and tracking the temporal evolution of clusters.&lt;/p&gt;
 &lt;p&gt;Take, for example, the evaluation of a clustering or community detection method.  To determine if the method is recovering a known feature of the data, it is necessary to compare the method’s result to a planted reference (a.k.a. ground truth) clustering, assuming that the more similar the method’s solution is to the reference clustering, the better the method.&lt;/p&gt;
 &lt;p&gt;Despite the importance of clustering comparison, no consensus has been reached for a standardized assessment; many, many clustering similarity methods exist, and each similarity measure rewards and penalizes different criteria, sometimes producing contradictory conclusions.  The situtation is even worse for generalized definitions of clusterings that include overlaps or hierarchy.&lt;/p&gt;
@@ -804,7 +804,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
 
   
 
@@ -813,7 +813,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -858,7 +858,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -906,7 +906,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
 
   
 
@@ -915,7 +915,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -960,7 +960,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -1012,7 +1012,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
 
   
 
@@ -1021,7 +1021,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1066,7 +1066,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -1098,9 +1098,9 @@
     
     <item>
       <title>Canalization &amp; Control in Complex Systems</title>
-      <link>https://alexandergates.net/project/booleannetwork/</link>
+      <link>https://ajgates42.github.io/project/booleannetwork/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/project/booleannetwork/</guid>
+      <guid>https://ajgates42.github.io/project/booleannetwork/</guid>
       <description>&lt;p&gt;Many biological networks can be modeled with multivariate discrete dynamical systems.  Current modeling theory suggests that the network structure of interactions captures salient features of system dynamics, but it misses a key aspect of these networks: some interactions are more important than others due to dynamical redundancy and nonlinearity.  This unequivalence leads to a canalized dynamics that is different from dynamical constraints inferred from network structure alone.&lt;/p&gt;
 &lt;p&gt;To capture the redundancy present in biochemical regulatory and signaling interactions, we present the &lt;em&gt;effective graph&lt;/em&gt;, an experimentally-validated mathematical framework that leads to a synthesis of both structure and dynamics in a new weighted graph representation of discrete multivariate systems. Our results demonstrate the ubiquity of redundancy in biology and provide a novel tool to increase causal explainability and control of biochemical regulation and signaling.&lt;/p&gt;
 &lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
@@ -1129,7 +1129,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/effectivegraph/&#34; &gt;The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/effectivegraph/&#34; &gt;The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling&lt;/a&gt;
 
   
 
@@ -1138,7 +1138,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1218,7 +1218,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/bncontrol/&#34; &gt;Control of complex networks requires both structure and dynamics&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/bncontrol/&#34; &gt;Control of complex networks requires both structure and dynamics&lt;/a&gt;
 
   
 
@@ -1227,7 +1227,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1322,7 +1322,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/cana/&#34; &gt;CANA: A python package for quantifying control and canalization in Boolean Networks&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/cana/&#34; &gt;CANA: A python package for quantifying control and canalization in Boolean Networks&lt;/a&gt;
 
   
 
@@ -1331,7 +1331,7 @@
     
 
   
-  &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1406,9 +1406,9 @@
     
     <item>
       <title>CANA</title>
-      <link>https://alexandergates.net/project/cana/</link>
+      <link>https://ajgates42.github.io/project/cana/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/project/cana/</guid>
+      <guid>https://ajgates42.github.io/project/cana/</guid>
       <description>&lt;p&gt;Logical models offer a simple but powerful framework to understand the complex dynamics of biochemical regulation, without the need to estimate kinetic parameters. However, even simple automata components can lead to collective dynamics that are computationally intractable when aggregated into large networks.&lt;/p&gt;
 &lt;p&gt;Here we provide a publicly-available Python package that simulates the dynamics and control of Boolean Network models.  &lt;strong&gt;CANA&lt;/strong&gt; can also be used to calculate all measures of canalization that derive from removing dynamical redundancy via two-symbol schemata re-description (Marques-Pita and Rocha, 2013): &lt;em&gt;effective connectivity&lt;/em&gt;, &lt;em&gt;input redundancy&lt;/em&gt;, and &lt;em&gt;input symmetry&lt;/em&gt;. At the network level, &lt;strong&gt;CANA&lt;/strong&gt; also calculates the &lt;em&gt;effective graph&lt;/em&gt;, a weighted and directed graph whose edge weights denote their effective contribution to node transitions.  Finally, &lt;strong&gt;CANA&lt;/strong&gt; can compute several measures of controllability that depend on the &lt;em&gt;Controlled State Transition Graph&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
@@ -1437,7 +1437,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/effectivegraph/&#34; &gt;The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/effectivegraph/&#34; &gt;The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling&lt;/a&gt;
 
   
 
@@ -1446,7 +1446,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1526,7 +1526,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/bncontrol/&#34; &gt;Control of complex networks requires both structure and dynamics&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/bncontrol/&#34; &gt;Control of complex networks requires both structure and dynamics&lt;/a&gt;
 
   
 
@@ -1535,7 +1535,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1630,7 +1630,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/cana/&#34; &gt;CANA: A python package for quantifying control and canalization in Boolean Networks&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/cana/&#34; &gt;CANA: A python package for quantifying control and canalization in Boolean Networks&lt;/a&gt;
 
   
 
@@ -1639,7 +1639,7 @@
     
 
   
-  &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1714,9 +1714,9 @@
     
     <item>
       <title>Autopoiesis</title>
-      <link>https://alexandergates.net/project/autopoiesis/</link>
+      <link>https://ajgates42.github.io/project/autopoiesis/</link>
       <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/project/autopoiesis/</guid>
+      <guid>https://ajgates42.github.io/project/autopoiesis/</guid>
       <description>&lt;p&gt;Autopoiesis is a proposed formal organizational property of living systems, defined as “a network of processes of production (synthesis and destruction) of components, such that these components: 1) continuously regenerate and realize the network of processes that produces them, and 2) constitute the system as a distinguishable unity in the domain in which they exist”.&lt;/p&gt;
 &lt;p&gt;In order to characterize the viability of autopoietic systems, we propose quantitative definitions for several of the core concepts in autopoiesis. &lt;em&gt;Viability&lt;/em&gt; is defined as expected life span of an organization given an initial configuration.  &lt;em&gt;Robustness&lt;/em&gt; is the tendency for a system to retain its configuration despite internal or external perturbations.  &lt;em&gt;Plasticity&lt;/em&gt; refers to a systemʼs malleability in response to perturbation.  &lt;em&gt;Adaptivity&lt;/em&gt; is associated with increases in an individualʼs viability resulting from interactions with its environment.&lt;/p&gt;
 &lt;p&gt;We introduce a spatial model of concentration dynamics that supports the emergence of spatiotemporal inhomogeneities that engage in metabolism–boundary co-construction: the hallmark of Autopoietic organizations.  A network of possible ontogenies is uncovered by subjecting a model protocell to sequential perturbations and mapping the resulting structural configurations. The combination of this model and analytical techniques provides a foundation for studying the emergence of viability, ontogeny, and adaptivity in more biologically realistic systems.&lt;/p&gt;
@@ -1746,7 +1746,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/viable/&#34; &gt;Exploring the Space of Viable Configurations in a Model of Metabolism–Boundary Co-construction&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/viable/&#34; &gt;Exploring the Space of Viable Configurations in a Model of Metabolism–Boundary Co-construction&lt;/a&gt;
 
   
 
@@ -1755,7 +1755,7 @@
     
 
   
-  &lt;span &gt;Eran Agmon&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Valentin Churavy&lt;/span&gt;, &lt;span &gt;Randall D. Beer&lt;/span&gt;
+  &lt;span &gt;Eran Agmon&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Valentin Churavy&lt;/span&gt;, &lt;span &gt;Randall D. Beer&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1800,7 +1800,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/autopoiesis/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/autopoiesis/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -1852,7 +1852,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://alexandergates.net/publication/ontogeny/&#34; &gt;The Structure of Ontogenies in a Model Protocell&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/ontogeny/&#34; &gt;The Structure of Ontogenies in a Model Protocell&lt;/a&gt;
 
   
 
@@ -1861,7 +1861,7 @@
     
 
   
-  &lt;span &gt;Eran Agmon&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Randall D. Beer&lt;/span&gt;
+  &lt;span &gt;Eran Agmon&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Randall D. Beer&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -1906,7 +1906,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/autopoiesis/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/autopoiesis/&#34;&gt;
     Project
   &lt;/a&gt;
   

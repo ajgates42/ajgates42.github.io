@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuan Wang | Alexander Gates</title>
-    <link>https://alexandergates.net/author/xuan-wang/</link>
-      <atom:link href="https://alexandergates.net/author/xuan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ajgates42.github.io/author/xuan-wang/</link>
+      <atom:link href="https://ajgates42.github.io/author/xuan-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuan Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alexandergates.net/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Xuan Wang</title>
-      <link>https://alexandergates.net/author/xuan-wang/</link>
+      <link>https://ajgates42.github.io/author/xuan-wang/</link>
     </image>
     
     <item>
       <title>The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling</title>
-      <link>https://alexandergates.net/publication/effectivegraph/</link>
+      <link>https://ajgates42.github.io/publication/effectivegraph/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/publication/effectivegraph/</guid>
+      <guid>https://ajgates42.github.io/publication/effectivegraph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CANA: A python package for quantifying control and canalization in Boolean Networks</title>
-      <link>https://alexandergates.net/publication/cana/</link>
+      <link>https://ajgates42.github.io/publication/cana/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://alexandergates.net/publication/cana/</guid>
+      <guid>https://ajgates42.github.io/publication/cana/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
