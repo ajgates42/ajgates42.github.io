@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BooleanNetwork | Alexander Gates</title>
+    <link>https://ajgates42.github.io/tag/booleannetwork/</link>
+      <atom:link href="https://ajgates42.github.io/tag/booleannetwork/index.xml" rel="self" type="application/rss+xml" />
+    <description>BooleanNetwork</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <title>BooleanNetwork</title>
+      <link>https://ajgates42.github.io/tag/booleannetwork/</link>
+    </image>
+    
+    <item>
+      <title>The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling</title>
+      <link>https://ajgates42.github.io/publication/effectivegraph/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/effectivegraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canalization &amp; Control in Complex Systems</title>
+      <link>https://ajgates42.github.io/project/booleannetwork/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/project/booleannetwork/</guid>
+      <description>&lt;p&gt;Many biological networks can be modeled with multivariate discrete dynamical systems.  Current modeling theory suggests that the network structure of interactions captures salient features of system dynamics, but it misses a key aspect of these networks: some interactions are more important than others due to dynamical redundancy and nonlinearity.  This unequivalence leads to a canalized dynamics that is different from dynamical constraints inferred from network structure alone.&lt;/p&gt;
+&lt;p&gt;To capture the redundancy present in biochemical regulatory and signaling interactions, we present the &lt;em&gt;effective graph&lt;/em&gt;, an experimentally-validated mathematical framework that leads to a synthesis of both structure and dynamics in a new weighted graph representation of discrete multivariate systems. Our results demonstrate the ubiquity of redundancy in biology and provide a novel tool to increase causal explainability and control of biochemical regulation and signaling.&lt;/p&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/effectivegraph/&#34; &gt;The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+  
+
+
+
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/bncontrol/&#34; &gt;Control of complex networks requires both structure and dynamics&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.nature.com/articles/srep24456/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/bncontrol/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/rionbr/CANA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+
+  
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep24456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/cana/&#34; &gt;CANA: A python package for quantifying control and canalization in Boolean Networks&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.frontiersin.org/articles/10.3389/fphys.2018.01046/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/cana/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/rionbr/CANA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+
+  
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/fphys.2018.01046&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>CANA: A python package for quantifying control and canalization in Boolean Networks</title>
+      <link>https://ajgates42.github.io/publication/cana/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/cana/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CANA</title>
+      <link>https://ajgates42.github.io/project/cana/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/project/cana/</guid>
+      <description>&lt;p&gt;Logical models offer a simple but powerful framework to understand the complex dynamics of biochemical regulation, without the need to estimate kinetic parameters. However, even simple automata components can lead to collective dynamics that are computationally intractable when aggregated into large networks.&lt;/p&gt;
+&lt;p&gt;Here we provide a publicly-available Python package that simulates the dynamics and control of Boolean Network models.  &lt;strong&gt;CANA&lt;/strong&gt; can also be used to calculate all measures of canalization that derive from removing dynamical redundancy via two-symbol schemata re-description (Marques-Pita and Rocha, 2013): &lt;em&gt;effective connectivity&lt;/em&gt;, &lt;em&gt;input redundancy&lt;/em&gt;, and &lt;em&gt;input symmetry&lt;/em&gt;. At the network level, &lt;strong&gt;CANA&lt;/strong&gt; also calculates the &lt;em&gt;effective graph&lt;/em&gt;, a weighted and directed graph whose edge weights denote their effective contribution to node transitions.  Finally, &lt;strong&gt;CANA&lt;/strong&gt; can compute several measures of controllability that depend on the &lt;em&gt;Controlled State Transition Graph&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/effectivegraph/&#34; &gt;The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+  
+
+
+
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/bncontrol/&#34; &gt;Control of complex networks requires both structure and dynamics&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.nature.com/articles/srep24456/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/bncontrol/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/rionbr/CANA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+
+  
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep24456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/cana/&#34; &gt;CANA: A python package for quantifying control and canalization in Boolean Networks&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;Rion B. Correia&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Xuan Wang&lt;/span&gt;, &lt;span &gt;Luis Rocha&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.frontiersin.org/articles/10.3389/fphys.2018.01046/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/cana/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/rionbr/CANA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+
+  
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/fphys.2018.01046&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

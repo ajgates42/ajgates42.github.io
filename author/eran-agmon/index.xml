@@ -5,7 +5,7 @@
     <link>https://ajgates42.github.io/author/eran-agmon/</link>
       <atom:link href="https://ajgates42.github.io/author/eran-agmon/index.xml" rel="self" type="application/rss+xml" />
     <description>Eran Agmon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Fri, 02 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Eran Agmon</title>
@@ -13,23 +13,19 @@
     </image>
     
     <item>
-      <title>Exploring the Space of Viable Configurations in a Model of Metabolism–Boundary Co-construction</title>
-      <link>https://ajgates42.github.io/publication/viable/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/viable/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Structure of Ontogenies in a Model Protocell</title>
       <link>https://ajgates42.github.io/publication/ontogeny/</link>
       <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://ajgates42.github.io/publication/ontogeny/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Space of Viable Configurations in a Model of Metabolism–Boundary Co-construction</title>
+      <link>https://ajgates42.github.io/publication/viable/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/viable/</guid>
+      <description></description>
     </item>
     
   </channel>
