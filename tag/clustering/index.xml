@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clustering | Alexander Gates</title>
-    <link>https://ajgates42.github.io/tag/clustering/</link>
-      <atom:link href="https://ajgates42.github.io/tag/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexandergates.net/tag/clustering/</link>
+      <atom:link href="https://alexandergates.net/tag/clustering/index.xml" rel="self" type="application/rss+xml" />
     <description>Clustering</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alexandergates.net/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Clustering</title>
-      <link>https://ajgates42.github.io/tag/clustering/</link>
+      <link>https://alexandergates.net/tag/clustering/</link>
     </image>
     
     <item>
       <title>CluSim</title>
-      <link>https://ajgates42.github.io/project/clusim/</link>
+      <link>https://alexandergates.net/project/clusim/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/project/clusim/</guid>
+      <guid>https://alexandergates.net/project/clusim/</guid>
       <description>&lt;p&gt;Clustering reveals the coarse-grained structure of data. However, to understand, evaluate, and leverage data clusterings, we need to quantitatively compare them. Clustering comparison forms the backbone of many tasks, including method evaluations, consensus clustering, and tracking the temporal evolution of clusters.&lt;/p&gt;
 &lt;p&gt;Take, for example, the evaluation of a clustering or community detection method.  To determine if the method is recovering a known feature of the data, it is necessary to compare the method’s result to a planted reference (a.k.a. ground truth) clustering, assuming that the more similar the method’s solution is to the reference clustering, the better the method.&lt;/p&gt;
 &lt;p&gt;Despite the importance of clustering comparison, no consensus has been reached for a standardized assessment; many, many clustering similarity methods exist, and each similarity measure rewards and penalizes different criteria, sometimes producing contradictory conclusions.  The situtation is even worse for generalized definitions of clusterings that include overlaps or hierarchy.&lt;/p&gt;
@@ -47,7 +47,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
 
   
 
@@ -56,7 +56,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -101,7 +101,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -149,7 +149,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
 
   
 
@@ -158,7 +158,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -203,7 +203,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -255,7 +255,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
 
   
 
@@ -264,7 +264,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -309,7 +309,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -341,9 +341,9 @@
     
     <item>
       <title>Clustering Analysis</title>
-      <link>https://ajgates42.github.io/project/clustering/</link>
+      <link>https://alexandergates.net/project/clustering/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/project/clustering/</guid>
+      <guid>https://alexandergates.net/project/clustering/</guid>
       <description>&lt;p&gt;Clustering reveals the coarse-grained structure of data. However, to understand, evaluate, and leverage data clusterings, we need to quantitatively compare them. Clustering comparison forms the backbone of many tasks, including method evaluations, consensus clustering, and tracking the temporal evolution of clusters.&lt;/p&gt;
 &lt;p&gt;Take, for example, the evaluation of a clustering or community detection method.  To determine if the method is recovering a known feature of the data, it is necessary to compare the method’s result to a planted reference (a.k.a. ground truth) clustering, assuming that the more similar the method’s solution is to the reference clustering, the better the method.&lt;/p&gt;
 &lt;p&gt;Despite the importance of clustering comparison, no consensus has been reached for a standardized assessment; many, many clustering similarity methods exist, and each similarity measure rewards and penalizes different criteria, sometimes producing contradictory conclusions.  The situtation is even worse for generalized definitions of clusterings that include overlaps or hierarchy.&lt;/p&gt;
@@ -376,7 +376,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
 
   
 
@@ -385,7 +385,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -430,7 +430,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -478,7 +478,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
 
   
 
@@ -487,7 +487,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -532,7 +532,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -584,7 +584,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
 
   
 
@@ -593,7 +593,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -638,7 +638,7 @@
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://alexandergates.net/project/clustering/&#34;&gt;
     Project
   &lt;/a&gt;
   

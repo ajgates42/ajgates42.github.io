@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Alexander Gates</title>
-    <link>https://ajgates42.github.io/publication-type/2/</link>
-      <atom:link href="https://ajgates42.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexandergates.net/publication-type/2/</link>
+      <atom:link href="https://alexandergates.net/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alexandergates.net/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>https://ajgates42.github.io/publication-type/2/</link>
+      <link>https://alexandergates.net/publication-type/2/</link>
     </image>
     
     <item>
       <title>Historical comparison of gender inequality in scientific careers across countries and disciplines</title>
-      <link>https://ajgates42.github.io/publication/sciencegender/</link>
+      <link>https://alexandergates.net/publication/sciencegender/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/sciencegender/</guid>
+      <guid>https://alexandergates.net/publication/sciencegender/</guid>
       <description>&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -61,9 +61,9 @@
     
     <item>
       <title>CANA: A python package for quantifying control and canalization in Boolean Networks</title>
-      <link>https://ajgates42.github.io/publication/cana/</link>
+      <link>https://alexandergates.net/publication/cana/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/cana/</guid>
+      <guid>https://alexandergates.net/publication/cana/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -71,9 +71,9 @@
     
     <item>
       <title>CluSim: a python package for calculating clustering similarity</title>
-      <link>https://ajgates42.github.io/publication/clusim/</link>
+      <link>https://alexandergates.net/publication/clusim/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/clusim/</guid>
+      <guid>https://alexandergates.net/publication/clusim/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -81,9 +81,9 @@
     
     <item>
       <title>Control of complex networks requires both structure and dynamics</title>
-      <link>https://ajgates42.github.io/publication/bncontrol/</link>
+      <link>https://alexandergates.net/publication/bncontrol/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/bncontrol/</guid>
+      <guid>https://alexandergates.net/publication/bncontrol/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -91,9 +91,9 @@
     
     <item>
       <title>Element-centric clustering comparison unifies overlaps and hierarchy</title>
-      <link>https://ajgates42.github.io/publication/elementcentric/</link>
+      <link>https://alexandergates.net/publication/elementcentric/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/elementcentric/</guid>
+      <guid>https://alexandergates.net/publication/elementcentric/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -101,9 +101,9 @@
     
     <item>
       <title>Nature&#39;s Reach: narrow work has broad impact</title>
-      <link>https://ajgates42.github.io/publication/nature150/</link>
+      <link>https://alexandergates.net/publication/nature150/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/nature150/</guid>
+      <guid>https://alexandergates.net/publication/nature150/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -137,9 +137,9 @@
     
     <item>
       <title>The impact of random models on clustering similarity</title>
-      <link>https://ajgates42.github.io/publication/randomcluster/</link>
+      <link>https://alexandergates.net/publication/randomcluster/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/randomcluster/</guid>
+      <guid>https://alexandergates.net/publication/randomcluster/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -147,25 +147,25 @@
     
     <item>
       <title>The Structure of Ontogenies in a Model Protocell</title>
-      <link>https://ajgates42.github.io/publication/ontogeny/</link>
+      <link>https://alexandergates.net/publication/ontogeny/</link>
       <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/ontogeny/</guid>
+      <guid>https://alexandergates.net/publication/ontogeny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Space of Viable Configurations in a Model of Metabolism–Boundary Co-construction</title>
-      <link>https://ajgates42.github.io/publication/viable/</link>
+      <link>https://alexandergates.net/publication/viable/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/viable/</guid>
+      <guid>https://alexandergates.net/publication/viable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularity and the spread of perturbations in complex dynamical systems</title>
-      <link>https://ajgates42.github.io/publication/perturb/</link>
+      <link>https://alexandergates.net/publication/perturb/</link>
       <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/perturb/</guid>
+      <guid>https://alexandergates.net/publication/perturb/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -173,9 +173,9 @@
     
     <item>
       <title>Designs for ultra-tiny, special-purpose nanoelectronic circuits</title>
-      <link>https://ajgates42.github.io/publication/nanorobot/</link>
+      <link>https://alexandergates.net/publication/nanorobot/</link>
       <pubDate>Mon, 12 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/nanorobot/</guid>
+      <guid>https://alexandergates.net/publication/nanorobot/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>

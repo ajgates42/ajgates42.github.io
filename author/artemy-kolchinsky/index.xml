@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artemy Kolchinsky | Alexander Gates</title>
-    <link>https://ajgates42.github.io/author/artemy-kolchinsky/</link>
-      <atom:link href="https://ajgates42.github.io/author/artemy-kolchinsky/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexandergates.net/author/artemy-kolchinsky/</link>
+      <atom:link href="https://alexandergates.net/author/artemy-kolchinsky/index.xml" rel="self" type="application/rss+xml" />
     <description>Artemy Kolchinsky</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Wed, 23 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alexandergates.net/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Artemy Kolchinsky</title>
-      <link>https://ajgates42.github.io/author/artemy-kolchinsky/</link>
+      <link>https://alexandergates.net/author/artemy-kolchinsky/</link>
     </image>
     
     <item>
       <title>Modularity and the spread of perturbations in complex dynamical systems</title>
-      <link>https://ajgates42.github.io/publication/perturb/</link>
+      <link>https://alexandergates.net/publication/perturb/</link>
       <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/perturb/</guid>
+      <guid>https://alexandergates.net/publication/perturb/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>

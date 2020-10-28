@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ScienceOfScience | Alexander Gates</title>
-    <link>https://ajgates42.github.io/tag/scienceofscience/</link>
-      <atom:link href="https://ajgates42.github.io/tag/scienceofscience/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexandergates.net/tag/scienceofscience/</link>
+      <atom:link href="https://alexandergates.net/tag/scienceofscience/index.xml" rel="self" type="application/rss+xml" />
     <description>ScienceOfScience</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alexandergates.net/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>ScienceOfScience</title>
-      <link>https://ajgates42.github.io/tag/scienceofscience/</link>
+      <link>https://alexandergates.net/tag/scienceofscience/</link>
     </image>
     
     <item>
       <title>pySciSci</title>
-      <link>https://ajgates42.github.io/project/pyscisci/</link>
+      <link>https://alexandergates.net/project/pyscisci/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/project/pyscisci/</guid>
+      <guid>https://alexandergates.net/project/pyscisci/</guid>
       <description>&lt;p&gt;The science of science (SciSci) encompasses interdisciplinary research programs that study the processes underlying science. The field has benefited greatly from access to massive digital databases containing the products of scientific discourse&amp;mdash;including publications, journals, patents, books, conference proceedings, and grants. The subsequent proliferation of mathematical models and computational techniques for quantifying the dynamics of innovation and success in science has made it difficult to disentangle universal scientific processes from those dependent on specific databases, data-processing decisions, field practices, etc.. Here we present &lt;em&gt;pySciSci&lt;/em&gt;, a freely available and easily adaptable Python package for the analysis of large-scale bibliometric data.  The &lt;em&gt;pySciSci&lt;/em&gt; package standardizes access to many of the most common datasets in SciSci and provides efficient implementations of common and advanced analytical techniques.&lt;/p&gt;
 &lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
 
@@ -44,7 +44,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
 
   
 
@@ -53,7 +53,7 @@
     
 
   
-  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -156,7 +156,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/nature150/&#34; &gt;Nature&amp;#39;s Reach: narrow work has broad impact&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/nature150/&#34; &gt;Nature&amp;#39;s Reach: narrow work has broad impact&lt;/a&gt;
 
   
 
@@ -165,7 +165,7 @@
     
 
   
-  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Qing Ke&lt;/span&gt;, &lt;span &gt;Onur Varol&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Qing Ke&lt;/span&gt;, &lt;span &gt;Onur Varol&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -236,9 +236,9 @@
     
     <item>
       <title>Systemic Inequality in Science &amp; Art</title>
-      <link>https://ajgates42.github.io/project/systemicinequality/</link>
+      <link>https://alexandergates.net/project/systemicinequality/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/project/systemicinequality/</guid>
+      <guid>https://alexandergates.net/project/systemicinequality/</guid>
       <description>&lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
 
 
@@ -265,7 +265,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/sciencegender/&#34; &gt;Historical comparison of gender inequality in scientific careers across countries and disciplines&lt;/a&gt;
 
   
 
@@ -274,7 +274,7 @@
     
 
   
-  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;Junming Huang&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Roberta Sinatra&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -377,7 +377,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/artgender/&#34; &gt;Quantifying systemic gender inequality in art&lt;/a&gt;
+  &lt;a href=&#34;https://alexandergates.net/publication/artgender/&#34; &gt;Quantifying systemic gender inequality in art&lt;/a&gt;
 
   
 
@@ -386,7 +386,7 @@
     
 
   
-  &lt;span &gt;Xindi Wang&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;Xindi Wang&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://alexandergates.net/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 
@@ -442,9 +442,9 @@
     
     <item>
       <title>Historical comparison of gender inequality in scientific careers across countries and disciplines</title>
-      <link>https://ajgates42.github.io/publication/sciencegender/</link>
+      <link>https://alexandergates.net/publication/sciencegender/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/sciencegender/</guid>
+      <guid>https://alexandergates.net/publication/sciencegender/</guid>
       <description>&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -489,9 +489,9 @@
     
     <item>
       <title>Nature&#39;s Reach: narrow work has broad impact</title>
-      <link>https://ajgates42.github.io/publication/nature150/</link>
+      <link>https://alexandergates.net/publication/nature150/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/nature150/</guid>
+      <guid>https://alexandergates.net/publication/nature150/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
