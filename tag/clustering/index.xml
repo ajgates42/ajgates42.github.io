@@ -106,6 +106,12 @@
   &lt;/a&gt;
   
 
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clusim/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
 
 
 
@@ -204,6 +210,12 @@
 
   
   &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clusim/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -310,6 +322,12 @@
 
   
   &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clusim/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -435,6 +453,12 @@
   &lt;/a&gt;
   
 
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clusim/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
 
 
 
@@ -533,6 +557,12 @@
 
   
   &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clusim/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -643,6 +673,12 @@
   &lt;/a&gt;
   
 
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clusim/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
 
 
 
@@ -666,6 +702,30 @@
 
 
 </description>
+    </item>
+    
+    <item>
+      <title>CluSim: a python package for calculating clustering similarity</title>
+      <link>https://ajgates42.github.io/publication/clusim/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/clusim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Element-centric clustering comparison unifies overlaps and hierarchy</title>
+      <link>https://ajgates42.github.io/publication/elementcentric/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/elementcentric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of random models on clustering similarity</title>
+      <link>https://ajgates42.github.io/publication/randomcluster/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/randomcluster/</guid>
+      <description></description>
     </item>
     
   </channel>

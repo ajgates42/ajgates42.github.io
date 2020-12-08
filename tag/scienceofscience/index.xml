@@ -202,13 +202,15 @@
 
 
   
-    
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/pyscisci/&#34;&gt;
+    Project
+  &lt;/a&gt;
   
 
 
 
 
-  
+
 
 
   
@@ -218,6 +220,174 @@
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=GW4s58u8PZo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Video
 &lt;/a&gt;
+
+
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/naturehgp/&#34; &gt;Tracing the impact of the Human Genome Project&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Deisy Morselli Gysi&lt;/span&gt;&lt;span title=&#34;contributed equally&#34; class=&#34;author-notes&#34;&gt;(?)&lt;/span&gt;, &lt;span &gt;Manolis Kellis&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/pyscisci/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/advancecareer/&#34; &gt;Quantifying the Impact of NSF ADVANCE Grants on Recipients&amp;#39; Careers&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;Rachael Grudt&lt;/span&gt;, &lt;span &gt;Kathrin Zippel&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
 
 
 
@@ -493,12 +663,7 @@
       <link>https://ajgates42.github.io/publication/nature150/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://ajgates42.github.io/publication/nature150/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Fast Company&lt;/strong&gt; 
