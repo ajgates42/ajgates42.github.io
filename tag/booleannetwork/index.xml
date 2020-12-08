@@ -5,20 +5,12 @@
     <link>https://ajgates42.github.io/tag/booleannetwork/</link>
       <atom:link href="https://ajgates42.github.io/tag/booleannetwork/index.xml" rel="self" type="application/rss+xml" />
     <description>BooleanNetwork</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>BooleanNetwork</title>
       <link>https://ajgates42.github.io/tag/booleannetwork/</link>
     </image>
-    
-    <item>
-      <title>The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling</title>
-      <link>https://ajgates42.github.io/publication/effectivegraph/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/effectivegraph/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Canalization &amp; Control in Complex Systems</title>
@@ -325,16 +317,6 @@
   
 
 
-</description>
-    </item>
-    
-    <item>
-      <title>CANA: A python package for quantifying control and canalization in Boolean Networks</title>
-      <link>https://ajgates42.github.io/publication/cana/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/cana/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

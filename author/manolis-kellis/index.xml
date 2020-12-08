@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manolis Kellis | Alexander Gates</title>
+    <link>https://ajgates42.github.io/author/manolis-kellis/</link>
+      <atom:link href="https://ajgates42.github.io/author/manolis-kellis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manolis Kellis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
+      <title>Manolis Kellis</title>
+      <link>https://ajgates42.github.io/author/manolis-kellis/</link>
+    </image>
+    
+    <item>
+      <title>Tracing the impact of the Human Genome Project</title>
+      <link>https://ajgates42.github.io/publication/naturehgp/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/naturehgp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
