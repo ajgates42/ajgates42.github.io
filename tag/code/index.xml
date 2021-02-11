@@ -5,7 +5,7 @@
     <link>https://ajgates42.github.io/tag/code/</link>
       <atom:link href="https://ajgates42.github.io/tag/code/index.xml" rel="self" type="application/rss+xml" />
     <description>Code</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2021</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Code</title>
@@ -211,6 +211,10 @@
 
 
 
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1038/d41586-019-03308-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
 
 
   &lt;/div&gt;
@@ -246,7 +250,7 @@
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://ajgates42.github.io/publication/naturehgp/&#34; &gt;Tracing the impact of the Human Genome Project&lt;/a&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/naturehgp/&#34; &gt;A wealth of discovery built on the Human Genome Project — by the numbers&lt;/a&gt;
 
   
 
@@ -271,10 +275,21 @@
 
 
   
+    
+  
 
 
 
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://media.nature.com/original/magazine-assets/d41586-021-00314-6/d41586-021-00314-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
 
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/naturehgp/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
 
 
 
@@ -292,7 +307,19 @@
 
 
 
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=mlDqludqJUw&amp;amp;feature=emb_imp_woyt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Video
+&lt;/a&gt;
 
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1038/d41586-021-00314-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
 
 
 
