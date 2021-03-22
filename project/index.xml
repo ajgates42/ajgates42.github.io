@@ -1407,11 +1407,30 @@
 
 
   
+    
+  
 
 
 
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.pnas.org/content/118/12/e2022598118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
 
 
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/effectivegraph/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/rionbr/CANA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
 
 
 
@@ -1429,6 +1448,10 @@
 
 
 
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1073/pnas.2022598118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
 
 
 
@@ -1713,11 +1736,30 @@
 
 
   
+    
+  
 
 
 
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.pnas.org/content/118/12/e2022598118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
 
 
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/effectivegraph/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/rionbr/CANA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
 
 
 
@@ -1735,6 +1777,10 @@
 
 
 
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1073/pnas.2022598118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
 
 
 
