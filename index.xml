@@ -5,7 +5,7 @@
     <link>https://ajgates42.github.io/</link>
       <atom:link href="https://ajgates42.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Gates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2021</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2021</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>Alexander Gates</title>
@@ -13,11 +13,125 @@
     </image>
     
     <item>
+      <title>Mapping Philanthropy in Science</title>
+      <link>https://ajgates42.github.io/publication/sciencephilantropy/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/sciencephilantropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADVANCE Networks</title>
+      <link>https://ajgates42.github.io/project/advance/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/project/advance/</guid>
+      <description>&lt;p&gt;We are mapping the network of individuals and organizations involved in the NSF ADVANCE Program and quantifying how these networks potentially facilitated the exchange of expertise and knowledge about gender equity and organizational transformation. Using publication histories and network science, we are working to understand how gendered collaboration patterns have changed following ADVANCE funding and trace the diffusion of innovative ideas emerging from ADVANCE funded research teams. This research has the potential to identify effective means to scale the transfer of knowledge about organizational intervention strategies that promote diversity &amp;amp; inclusivity.&lt;/p&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/advancecareer/&#34; &gt;Quantifying the Impact of NSF ADVANCE Grants on Recipients&amp;#39; Careers&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;Rachael Grudt&lt;/span&gt;, &lt;span &gt;Kathrin Zippel&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+</description>
+    </item>
+    
+    <item>
       <title>The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling</title>
       <link>https://ajgates42.github.io/publication/effectivegraph/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://ajgates42.github.io/publication/effectivegraph/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PNAS&lt;/strong&gt; 
+&lt;a href=&#34;https://www.pnas.org/content/118/16/e2103698118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``Identifying `more equal than others&#39; edges in diverse biochemical networks&#39;&#39;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gulbenkian Science&lt;/strong&gt; 
+&lt;a href=&#34;https://gulbenkian.pt/ciencia/news/uncovering-the-master-switches-of-biochemical-networks-can-explain-the-effects-of-drugs-in-the-destruction-of-cancer-cells/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``Uncovering the `master switches&#39; of biochemical networks can explain the effects of drugs in the destruction of cancer cells&#39;&#39;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Publico&lt;/strong&gt; (In Portuguese) 
+&lt;a href=&#34;https://www.publico.pt/2021/03/16/ciencia/noticia/criado-modelo-distingue-principais-interacoes-genes-organismo-1954593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``Criado modelo que distingue principais interaccoes de genes com organismo&#39;&#39;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -45,11 +159,20 @@
     </item>
     
     <item>
+      <title>Reproducible Science of Science at scale: pySciSci</title>
+      <link>https://ajgates42.github.io/publication/pysciscipub/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/pysciscipub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>pySciSci</title>
       <link>https://ajgates42.github.io/project/pyscisci/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://ajgates42.github.io/project/pyscisci/</guid>
       <description>&lt;p&gt;The science of science (SciSci) encompasses interdisciplinary research programs that study the processes underlying science. The field has benefited greatly from access to massive digital databases containing the products of scientific discourse&amp;mdash;including publications, journals, patents, books, conference proceedings, and grants. The subsequent proliferation of mathematical models and computational techniques for quantifying the dynamics of innovation and success in science has made it difficult to disentangle universal scientific processes from those dependent on specific databases, data-processing decisions, field practices, etc.. Here we present &lt;em&gt;pySciSci&lt;/em&gt;, a freely available and easily adaptable Python package for the analysis of large-scale bibliometric data.  The &lt;em&gt;pySciSci&lt;/em&gt; package standardizes access to many of the most common datasets in SciSci and provides efficient implementations of common and advanced analytical techniques.&lt;/p&gt;
+&lt;p&gt;Find the code on Github: &lt;a href=&#34;https://github.com/SciSciCollective/pyscisci&#34;&gt;https://github.com/SciSciCollective/pyscisci&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
 
 
@@ -594,7 +717,7 @@
     
 
   
-  &lt;span &gt;Xindi Wang&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
+  &lt;span &gt;Xindi Wang&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Magnus Resch&lt;/span&gt;, &lt;span &gt;Albert-Laszlo Barabasi&lt;/span&gt;
   &lt;/div&gt;
   
 

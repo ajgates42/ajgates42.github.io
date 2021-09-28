@@ -5,12 +5,20 @@
     <link>https://ajgates42.github.io/publication-type/3/</link>
       <atom:link href="https://ajgates42.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2021</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2021</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>https://ajgates42.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Mapping Philanthropy in Science</title>
+      <link>https://ajgates42.github.io/publication/sciencephilantropy/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/sciencephilantropy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantifying the Impact of NSF ADVANCE Grants on Recipients&#39; Careers</title>
@@ -25,6 +33,14 @@
       <link>https://ajgates42.github.io/publication/artgender/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://ajgates42.github.io/publication/artgender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible Science of Science at scale: pySciSci</title>
+      <link>https://ajgates42.github.io/publication/pysciscipub/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/pysciscipub/</guid>
       <description></description>
     </item>
     
