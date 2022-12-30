@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering | Alexander Gates</title>
+    <link>https://ajgates42.github.io/tag/clustering/</link>
+      <atom:link href="https://ajgates42.github.io/tag/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clustering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2022</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_3.png</url>
+      <title>Clustering</title>
+      <link>https://ajgates42.github.io/tag/clustering/</link>
+    </image>
+    
+    <item>
+      <title>CluSim</title>
+      <link>https://ajgates42.github.io/project/clusim/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/project/clusim/</guid>
+      <description>&lt;p&gt;Clustering reveals the coarse-grained structure of data. However, to understand, evaluate, and leverage data clusterings, we need to quantitatively compare them. Clustering comparison forms the backbone of many tasks, including method evaluations, consensus clustering, and tracking the temporal evolution of clusters.&lt;/p&gt;
+&lt;p&gt;Take, for example, the evaluation of a clustering or community detection method.  To determine if the method is recovering a known feature of the data, it is necessary to compare the method’s result to a planted reference (a.k.a. ground truth) clustering, assuming that the more similar the method’s solution is to the reference clustering, the better the method.&lt;/p&gt;
+&lt;p&gt;Despite the importance of clustering comparison, no consensus has been reached for a standardized assessment; many, many clustering similarity methods exist, and each similarity measure rewards and penalizes different criteria, sometimes producing contradictory conclusions.  The situtation is even worse for generalized definitions of clusterings that include overlaps or hierarchy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CluSim&lt;/strong&gt; is a python package providing a unified library of over 20 clustering similarity measures for partitions, dendrograms, and overlapping clusterings.&lt;/p&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.jmlr.org/papers/volume18/17-039/17-039.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/randomcluster/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/Hoosier-Clusters/clusim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.nature.com/articles/s41598-019-44892-y.pdf?origin=ppub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/elementcentric/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/Hoosier-Clusters/clusim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/s41598-019-44892-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://joss.theoj.org/papers/10.21105/joss.01264.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/clusim/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/Hoosier-Clusters/clusim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/%2010.21105/joss.01264&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Clustering Analysis</title>
+      <link>https://ajgates42.github.io/project/clustering/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/project/clustering/</guid>
+      <description>&lt;p&gt;Clustering reveals the coarse-grained structure of data. However, to understand, evaluate, and leverage data clusterings, we need to quantitatively compare them. Clustering comparison forms the backbone of many tasks, including method evaluations, consensus clustering, and tracking the temporal evolution of clusters.&lt;/p&gt;
+&lt;p&gt;Take, for example, the evaluation of a clustering or community detection method.  To determine if the method is recovering a known feature of the data, it is necessary to compare the method’s result to a planted reference (a.k.a. ground truth) clustering, assuming that the more similar the method’s solution is to the reference clustering, the better the method.&lt;/p&gt;
+&lt;p&gt;Despite the importance of clustering comparison, no consensus has been reached for a standardized assessment; many, many clustering similarity methods exist, and each similarity measure rewards and penalizes different criteria, sometimes producing contradictory conclusions.  The situtation is even worse for generalized definitions of clusterings that include overlaps or hierarchy.&lt;/p&gt;
+&lt;p&gt;Here I show that existing clustering similarity measures are very poor at measuring differences in heterogeneously sized clusters commonly found in social applications, and no measure was available for overlapping and hierarchically structured clusterings.&lt;/p&gt;
+&lt;p&gt;To solve these problems, I first modified two popular clustering similarity measures (ARI and NMI) by expanding the definition of random clusters from the permutation model (which fixes the sizes and numbers of clusters) to more realistic random set-theoretic models (which allow for cluster sizes and numbers to vary). These modifications revealed that certain clustering methods would appear to perform well in the context of permutation models, yet, in the context of realistic random-set models, performed worse than randomly generated solutions.&lt;/p&gt;
+&lt;p&gt;Second, I proposed a new way of thinking about clustering similarity in terms of the connectedness of the data elements (rather than the overlap of clusters).  This new &lt;em&gt;element-centric&lt;/em&gt; clustering similarity measure naturally accommodates overlapping and hierarchical clusterings.  Using the element-wise contributions to this new method, I can trace how community structures change across different regions of the network; for example, in a Facebook social network (Figure above), the dormitory is well aligned to network structure for freshman and sophomores, but fails to reflect friendships amongst juniors and seniors.&lt;/p&gt;
+&lt;h2 id=&#34;read-more&#34;&gt;Read More:&lt;/h2&gt;
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/randomcluster/&#34; &gt;The impact of random models on clustering similarity&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.jmlr.org/papers/volume18/17-039/17-039.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/randomcluster/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/Hoosier-Clusters/clusim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/elementcentric/&#34; &gt;Element-centric clustering comparison unifies overlaps and hierarchy&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Ian B. Wood&lt;/span&gt;, &lt;span &gt;William P. Hetrick&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.nature.com/articles/s41598-019-44892-y.pdf?origin=ppub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/elementcentric/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/Hoosier-Clusters/clusim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/s41598-019-44892-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://ajgates42.github.io/publication/clusim/&#34; &gt;CluSim: a python package for calculating clustering similarity&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34;&gt;
+    
+
+  
+  &lt;span &gt;&lt;a href=&#34;https://ajgates42.github.io/author/alexander-j.-gates/&#34;&gt;Alexander J. Gates&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;Yong-Yeol Ahn&lt;/span&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://joss.theoj.org/papers/10.21105/joss.01264.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/clusim/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/Hoosier-Clusters/clusim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://ajgates42.github.io/project/clustering/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/%2010.21105/joss.01264&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>CluSim: a python package for calculating clustering similarity</title>
+      <link>https://ajgates42.github.io/publication/clusim/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/clusim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Element-centric clustering comparison unifies overlaps and hierarchy</title>
+      <link>https://ajgates42.github.io/publication/elementcentric/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/elementcentric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of random models on clustering similarity</title>
+      <link>https://ajgates42.github.io/publication/randomcluster/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/randomcluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

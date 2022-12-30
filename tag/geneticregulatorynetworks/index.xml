@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GeneticRegulatoryNetworks | Alexander Gates</title>
+    <link>https://ajgates42.github.io/tag/geneticregulatorynetworks/</link>
+      <atom:link href="https://ajgates42.github.io/tag/geneticregulatorynetworks/index.xml" rel="self" type="application/rss+xml" />
+    <description>GeneticRegulatoryNetworks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2022</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_3.png</url>
+      <title>GeneticRegulatoryNetworks</title>
+      <link>https://ajgates42.github.io/tag/geneticregulatorynetworks/</link>
+    </image>
+    
+    <item>
+      <title>The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling</title>
+      <link>https://ajgates42.github.io/publication/effectivegraph/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/effectivegraph/</guid>
+      <description>&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PNAS&lt;/strong&gt; 
+&lt;a href=&#34;https://www.pnas.org/content/118/16/e2103698118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``Identifying `more equal than others&amp;rsquo; edges in diverse biochemical networks&amp;rsquo;&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gulbenkian Science&lt;/strong&gt; 
+&lt;a href=&#34;https://gulbenkian.pt/ciencia/news/uncovering-the-master-switches-of-biochemical-networks-can-explain-the-effects-of-drugs-in-the-destruction-of-cancer-cells/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``Uncovering the `master switches&amp;rsquo; of biochemical networks can explain the effects of drugs in the destruction of cancer cells&amp;rsquo;&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Publico&lt;/strong&gt; (In Portuguese) 
+&lt;a href=&#34;https://www.publico.pt/2021/03/16/ciencia/noticia/criado-modelo-distingue-principais-interacoes-genes-organismo-1954593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``Criado modelo que distingue principais interaccoes de genes com organismo&amp;rsquo;&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A wealth of discovery built on the Human Genome Project — by the numbers</title>
+      <link>https://ajgates42.github.io/publication/naturehgp/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/naturehgp/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/GW4s58u8PZo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Control of complex networks requires both structure and dynamics</title>
+      <link>https://ajgates42.github.io/publication/bncontrol/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/bncontrol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
