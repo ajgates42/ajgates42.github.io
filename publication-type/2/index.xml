@@ -5,12 +5,20 @@
     <link>https://ajgates42.github.io/publication-type/2/</link>
       <atom:link href="https://ajgates42.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2022</copyright><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2023</copyright><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://ajgates42.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Reproducible Science of Science at scale: pySciSci</title>
+      <link>https://ajgates42.github.io/publication/pysciscipub/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/pysciscipub/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The NSF ADVANCE Network of Organizations</title>
