@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People | Alexander Gates</title>
+    <link>https://ajgates42.github.io/category/people/</link>
+      <atom:link href="https://ajgates42.github.io/category/people/index.xml" rel="self" type="application/rss+xml" />
+    <description>People</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2024</copyright><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_3.png</url>
+      <title>People</title>
+      <link>https://ajgates42.github.io/category/people/</link>
+    </image>
+    
+    <item>
+      <title>08/01/23 Welcome [Jianjian Gao](https://datascience.virginia.edu/people/jianjian-gao) as a new postdoc in the lab!</title>
+      <link>https://ajgates42.github.io/post/welcomejianjian/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/post/welcomejianjian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

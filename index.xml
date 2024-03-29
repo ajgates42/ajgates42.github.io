@@ -5,7 +5,7 @@
     <link>https://ajgates42.github.io/</link>
       <atom:link href="https://ajgates42.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Gates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2023</copyright><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2024</copyright><lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_3.png</url>
       <title>Alexander Gates</title>
@@ -13,19 +13,45 @@
     </image>
     
     <item>
-      <title>A network-based normalized impact measure reveals successful periods of scientific discovery across discipline</title>
-      <link>https://ajgates42.github.io/publication/networknormimpact/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/networknormimpact/</guid>
+      <title>Translating interdisciplinary knowledge for gender equity: Quantifying the impact of NSF ADVANCE.</title>
+      <link>https://ajgates42.github.io/publication/advanceinter/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/advanceinter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying Hierarchy and Prestige in US Ballet Academies as Social Predictors of Career Success</title>
       <link>https://ajgates42.github.io/publication/ballet/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://ajgates42.github.io/publication/ballet/</guid>
+      <description>&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;SDS News&lt;/strong&gt; 
+&lt;a href=&#34;https://datascience.virginia.edu/news/new-research-examines-how-success-ballet-can-be-measured-quantitatively&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``New Research Uncovers How Hidden Networks Can Predict Success in Ballet&amp;rsquo;&amp;rsquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>08/01/23 Welcome [Jianjian Gao](https://datascience.virginia.edu/people/jianjian-gao) as a new postdoc in the lab!</title>
+      <link>https://ajgates42.github.io/post/welcomejianjian/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/post/welcomejianjian/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A network-based normalized impact measure reveals successful periods of scientific discovery across discipline</title>
+      <link>https://ajgates42.github.io/publication/networknormimpact/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/networknormimpact/</guid>
+      <description>&lt;h2 id=&#34;in-the-media&#34;&gt;In the Media:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;SDS News&lt;/strong&gt; 
+&lt;a href=&#34;https://datascience.virginia.edu/news/new-research-demonstrates-more-effective-method-measuring-impact-scientific-publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;``New Research Demonstrates More Effective Method for Measuring Impact of Scientific Publications&amp;rsquo;&amp;rsquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -1770,7 +1796,7 @@
 
 
 
-  
+
 
 
 
@@ -2184,7 +2210,7 @@
 
 
 
-  
+
 
 
 
@@ -2414,6 +2440,37 @@
 
   
 
+
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://ajgates42.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[11/28/23]&lt;/strong&gt; New paper 
+&lt;a href=&#34;https://ajgates42.github.io/publication/networknormimpact/&#34;&gt;A network-based normalized impact measure reveals successful periods of scientific discovery across disciplines&lt;/a&gt; featured on the cover of &lt;em&gt;PNAS&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[10/30/23]&lt;/strong&gt; New paper 
+&lt;a href=&#34;https://ajgates42.github.io/publication/ballet/&#34;&gt;Quantifying Hierarchy and Prestige in US Ballet Academies as Social Predictors of Career Success&lt;/a&gt; published in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/27/23]&lt;/strong&gt; Invited presentation on 
+&lt;a href=&#34;https://www.nico.northwestern.edu/news-events/events/?eid=603964&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beyond Core-Periphery: Uncovering the Impacts of Scientific Networks on Resources and Recognition&lt;/a&gt; at 
+&lt;a href=&#34;https://www.nico.northwestern.edu/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northwester Institute on Complex Systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[08/01/23]&lt;/strong&gt; Welcome 
+&lt;a href=&#34;https://ajgates42.github.io/authors/jianjian/&#34;&gt;Jianjian Gao&lt;/a&gt; as a new Postdoc in our lab!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[05/31/23]&lt;/strong&gt; Congratulations 
+&lt;a href=&#34;https://ajgates42.github.io/authors/yessie/&#34;&gt;Dr. Yessica Herrera-Guzman&lt;/a&gt; who successfully defended her disseration with highest honors!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[03/08/23]&lt;/strong&gt; New paper 
+&lt;a href=&#34;https://ajgates42.github.io/publication/pysciscipub/&#34;&gt;Reproducible Science of Science at scale: pySciSci&lt;/a&gt; published in &lt;em&gt;Quantitative Science Studies&lt;/em&gt;.&lt;/p&gt;
 
 </description>
     </item>
