@@ -5,12 +5,28 @@
     <link>https://ajgates42.github.io/</link>
       <atom:link href="https://ajgates42.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Gates</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2024</copyright><lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alexander Gates 2024</copyright><lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ajgates42.github.io/images/icon_hu736bafd322dc558fd7267bde761742d8_28581_512x512_fill_lanczos_center_3.png</url>
       <title>Alexander Gates</title>
       <link>https://ajgates42.github.io/</link>
     </image>
+    
+    <item>
+      <title>Mapping Philanthropic Support of Science</title>
+      <link>https://ajgates42.github.io/publication/sciencephilantropy/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/sciencephilantropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The increasing fragmentation of global science limits the diffusion of ideas</title>
+      <link>https://ajgates42.github.io/publication/nationalcite/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ajgates42.github.io/publication/nationalcite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Translating interdisciplinary knowledge for gender equity: Quantifying the impact of NSF ADVANCE.</title>
@@ -59,14 +75,6 @@
       <link>https://ajgates42.github.io/publication/pysciscipub/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ajgates42.github.io/publication/pysciscipub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping Philanthropic Support of Science</title>
-      <link>https://ajgates42.github.io/publication/sciencephilantropy/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://ajgates42.github.io/publication/sciencephilantropy/</guid>
       <description></description>
     </item>
     
@@ -2458,6 +2466,10 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[05/08/24]&lt;/strong&gt; Gates organized the inagural 
+&lt;a href=&#34;https://datascience.virginia.edu/data-is-art-123asdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Is Art&lt;/a&gt; competition at UVA.  Congratulations to Julia Daser and Pepi Ng for their winning animatronic data visualization!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[04/24/24]&lt;/strong&gt; New paper 
+&lt;a href=&#34;https://ajgates42.github.io/publication/sciencephilantropy/&#34;&gt;Mapping Philanthropic Support of Science&lt;/a&gt; published in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[02/22/24]&lt;/strong&gt; New paper 
 &lt;a href=&#34;https://ajgates42.github.io/publication/advanceinter/&#34;&gt;Translating interdisciplinary knowledge for gender equity: Quantifying the impact of NSF ADVANCE&lt;/a&gt; published in &lt;em&gt;Social Science Quarterly&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[02/16/24]&lt;/strong&gt; Invited presentation on &lt;em&gt;The increasing fragmentation of global science limits the diffusion of ideas&lt;/em&gt; at 
